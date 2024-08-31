@@ -1,6 +1,5 @@
 # learn-aws-by-coding-code
 
-## バグ修正など
+## 最新バージョン化
 
-- 2022/09/12: [Bashoutter ハンズオンのエラー](https://github.com/tomomano/learn-aws-by-coding/issues/44) に対応．
-関連PR: https://github.com/tomomano/learn-aws-by-coding/pull/45
+- 2024年8月現在で実行できるように、モジュールを最新バージョンにアップデートする
